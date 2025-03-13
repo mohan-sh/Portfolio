@@ -7,7 +7,7 @@ const Hero = () => {
     <>
       <div className="p-20 w-auto flex px-24 justify-center relative">
         <div className="p-20 sm:p-16 md:p-20 lg:p-24 xl:p-20 w-auto flex flex-col md:flex-row px-4 sm:px-8 md:px-24 lg:px-24 xl:px-24 relative">
-          <div className="mr-10">
+          <div className="mr-10 motion-opacity-in-0 motion-translate-y-in-100 motion-blur-in-md">
             <img
               className="rounded-lg min-w-[100px] w-3/4 h-auto "
               src={profile}
@@ -58,13 +58,7 @@ const Hero = () => {
                 href="https://leetcode.com/u/user0899Hu/"
                 className="bg-gray-800 rounded-lg p-5 w-64 flex items-center gap-2 text-white"
               >
-                {/* <img
-                  className="mr-2 hover:scale-105 transition duration-300 ease-in-out"
-                  src=""
-                  width="20px"
-                  height="20px"
-                  alt="Twitter"
-                /> */}
+             
                 <SiLeetcode />
                 
 
