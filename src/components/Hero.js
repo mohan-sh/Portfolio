@@ -16,7 +16,7 @@ const Hero = () => {
           </div>
           <div className="w-full sm:w-[70%] md:w-[60%] lg:w-[50%]">
             <h1 className="text-white font-bold text-3xl mt-6 mb-8">
-              Hey it's me, Mohan
+              Hi , I'am Mohan
             </h1>
             <p className="text-white w-full sm:w-[35rem] md:w-[30rem] lg:w-[25rem] mb-10">
             A passionate developer with experience in web development and full-stack MERN (MongoDB, Express, React, Node.js) development.
