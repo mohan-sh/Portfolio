@@ -11,7 +11,7 @@ export const PROJECTS = [
     image: project1,
     technologies: ["React.js", "Tailwind.css"],
     livedemo: "https://mohan-sh.github.io/Happy_Home/",
-    code: "https://github.com/Harits77/shopcart-react.git",
+    code: "https://github.com/mohan-sh/Happy_Home"
   },
   {
     title: "Battery Management Website",
@@ -19,7 +19,7 @@ export const PROJECTS = [
     image: project2,
     technologies: ["React.js", "Tailwind.css"],
     livedemo: "https://angular-nu-five.vercel.app/home",
-    code: "https://github.com/Harits77/QR-Code-Generator.git",
+    code: "https://github.com/mohan-sh/angular",
   },
   {
     title: "InkSpire",
@@ -27,7 +27,7 @@ export const PROJECTS = [
     image: project3,
     technologies: ["React.js", "Node.js", "Express.js", "MongoDB"],
     livedemo:"https://frontend-pen.vercel.app/",
-    code: "https://github.com/Harits77/Healthlink-Pro-MERN-Project.git",
+    code: "https://github.com/mohan-sh/frontendPen",
   },
 
 
