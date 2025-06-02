@@ -4,9 +4,9 @@ const educationData = [
   {
     level: "College",
     institution: "Kongu Engineering College",
-    degree: "B.Tech in Information Technology",
-    duration: "2021 - 2025",
-    result: "CGPA: 8.23",
+    degree: "M.sc Software Systems",
+    duration: "2021 - 2026",
+    result: "CGPA: 8.39",
   },
   {
     level: "Higher Secondary",
