@@ -31,3 +31,6 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 ## 📈 GitHub Stats
 
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan-sh&show_icons=true&theme=tokyonight)
+
+
+en peru mohan
